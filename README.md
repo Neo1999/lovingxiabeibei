@@ -1,6 +1,6 @@
 <h1 align="center">微信消息通知</h1>
 
-<p align="center"><img width="340" src="/images/weixin.jpg" alt="weixin"></p>
+<!-- <p align="center"><img width="340" src="/images/weixin.jpg" alt="weixin"></p>
 
 <p align="center">
   <a href="https://github.com/JS-banana/notify-server">
@@ -15,7 +15,7 @@
   <a href="https://github.com/JS-banana/notify-server/actions/workflows/goodMorning.yml">
     <img src="https://github.com/JS-banana/notify-server/actions/workflows/goodMorning.yml/badge.svg" alt="goodMorning">
   </a>
-</p>
+</p> -->
 
 <p align="center">微信通知，每天给女朋友发早安、情话、诗句、天气信息等</p>
 <p align="center">微信通知能力的核心链路已完成，就消息内容而言不限，基于此，可以根据个人需求完成各种私人定制</p>
@@ -46,9 +46,9 @@
 
 <!-- ![wx_love-1](https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/wx_love-1.png) -->
 
-<p align="center"><img width="500" src="/images/weixin.jpg" alt="weixin"></p>
+<!-- <p align="center"><img width="500" src="/images/weixin.jpg" alt="weixin"></p>
 
-<p align="center"><img width="500" src="/images/preview-1.jpg" alt="preview-1"></p>
+<p align="center"><img width="500" src="/images/preview-1.jpg" alt="preview-1"></p> -->
 
 ```txt
 星河耿耿，不如你眼眸璀璨，晚风习习，不如你温柔绮丽。
