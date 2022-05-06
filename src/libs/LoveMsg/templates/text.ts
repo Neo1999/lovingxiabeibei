@@ -8,7 +8,7 @@ import dayjs, { weekToday } from '../../../utils/dayjs'
 export const textTemplate = (data: TextTemplateProps) => {
   const { caiHongpi, sayLove, songLyrics, oneMagazines, netEaseCloud, oneWord, dayEnglish } = data
 
-  let text = '早安呀，我可爱的霞贝贝~\n'
+  let text = '丫嘎哒，(づ￣3￣)づ╭❤～亲爱的霞贝贝~\n'
 
   // 工作日/休息日，需要排除节假日
   const week = weekToday()
@@ -19,8 +19,11 @@ export const textTemplate = (data: TextTemplateProps) => {
   }
   else {
     text += `
-如果我霞贝贝已经起床啦！灰崽哥哥向你说早安呦~，记得吃早饭呀😆\n
-嗯哼哼~今天可是${week}哦，因为你所以我~ 😘\n`//上班别迟到了
+    霞贝贝么么哒！灰崽哥哥喊你起来喝水呦~，记得深呼吸放松一下呀😆\n
+    嘎嘎嘎~今天是${week}哦，因为你所以我~ 😘\n`
+//     text += `
+// 如果我霞贝贝早安啦！灰崽哥哥向你说早安呦~，记得吃早饭呀😆\n
+// 嗯哼哼~今天可是${week}哦，因为你所以我~ 😘\n`//上班别迟到了
 // text += `
 // 如果我霞贝贝已经起床啦！灰崽哥哥向你说Sorry呦~，记得吃早饭呀😆\n
 // 嗯哼哼~BUG改了哦~ 嘤嘤嘤嘤嘤嘤~`
